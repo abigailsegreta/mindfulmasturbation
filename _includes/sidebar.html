@@ -1,0 +1,29 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1 class="title">
+        {{ site.title }}
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+    <nav class="sidebar-nav">
+      {% if page.name == "index.md" %}
+        <a class="sidebar-nav-item" href="#title">Introduction</a>
+        <a class="sidebar-nav-item" href="#goals">Goals</a>
+        <a class="sidebar-nav-item" href="#before-you-begin">Before You Begin</a>
+        <a class="sidebar-nav-item" href="#basics">Basics</a>
+        <a class="sidebar-nav-item" href="#sexual-touch">Sexual Touch</a>
+        <a class="sidebar-nav-item" href="#headspace">Headspace</a>
+        <a class="sidebar-nav-item" href="#orgasm-and-afterwards">Orgasm & Afterwards</a>
+        <a class="sidebar-nav-item" href="#toys">Toys</a>
+        <a class="sidebar-nav-item" href="#troubleshooting">Troubleshooting</a>
+        <a class="sidebar-nav-item" href="#sources-and-inspiration">Sources</a>
+      {% endif %}
+
+      {% if page.name == "toys.md" %}
+        <a class="sidebar-nav-item" href="/#toys">Back to Home</a>
+      {% endif %}
+    </nav>
+    <p><a id="contribute-link" href="#">Contribute to this guide</a></p>
+  </div>
+</div>

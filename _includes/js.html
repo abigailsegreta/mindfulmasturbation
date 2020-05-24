@@ -1,0 +1,57 @@
+<script>
+  function detectInViewHeader() {
+    let headers = [...document.querySelectorAll('h1, h2')].filter(elem => elem.id.length > 0);
+    for (header of headers) {
+      let bounding = header.getBoundingClientRect()
+
+      if (
+        bounding.top >= 0 &&
+        bounding.left >= 0 &&
+        bounding.right <= (window.innerWidth || document.documentElement.clientWidth) &&
+        bounding.bottom <= (window.innerHeight || document.documentElement.clientHeight)
+      ) {
+        // let headerIDs = headers.map(header => header.id);
+        // let previousHeaderID = headerIDs[Math.max(0, headerIDs.indexOf(header.id) - 1)]
+        // return previousHeaderID;
+
+        return header.id;
+      }
+    }
+  }
+
+  function updateActiveNav() {
+    let headerID = detectInViewHeader();
+    if (headerID) {
+      let navItems = document.querySelectorAll('.sidebar-nav-item');
+      for (navItem of navItems) {
+        if (navItem.getAttribute('href') == '#' + headerID) {
+          navItem.classList.add('active');
+        } else {
+          navItem.classList.remove('active');
+        }
+      }
+    }
+  }
+
+  function throttle(fn, wait) {
+    var time = Date.now();
+    return function() {
+      if ((time + wait - Date.now()) < 0) {
+        fn();
+        time = Date.now();
+        console.log
+      }
+    }
+  }
+
+  function enableaudio() {
+    let audioElem = document.getElementById('audio-control');
+    audioElem.style.display = 'block';
+    audioElem.play();
+  }
+
+  window.addEventListener('scroll', throttle(updateActiveNav, 100));
+
+
+
+</script>
