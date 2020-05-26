@@ -4,7 +4,7 @@ layout: page
 
 #### [⇐ Back to Mindful Masturbation](/#toys)
 
-<a id="audio-enable" href="#" onclick="enableaudio()">Listen to this article</a>
+<a id="audio-enable" href="#" onclick="enableaudio()">Listen to this page</a>
 
 <audio
     id="audio-control"
@@ -30,17 +30,17 @@ There are also more exotic form factors such as combination G-spot/clitoral vibr
 
 ## G-Spot & Vaginal Stimulation
 
-Vibrators for the G-spot are by far the most common toy for stimulation of that area. There's a wide range of dildos that can also be used for non-moving stimulation. Rabbit vibrators will sometimes have rotating beads within on the dildo but underneath the membrane to mechanically stimulate the G-spot and vagina.
+Vibrators for the G-spot are by far the most common toy for stimulation of that area. There's a wide range of dildos that can also be used for non-moving stimulation. Rabbit vibrators will sometimes have rotating beads within the dildo but underneath the membrane to mechanically stimulate the G-spot and vagina.
 
-Dildos also come in a variety of sizes if the sensation of being stretched or filled is appealing; for more exotic interests, dildos in the form of animal, monster, or even alien penises are available.
+Dildos also come in a variety of sizes if the sensation of being stretched or filled is appealing. For more exotic interests, dildos in the form of animal, monster, or even alien penises are available.
 
 ## Anal Stimulation
 
 Most importantly, all anal-use toys *must* have a flared base! Using toys without a flared base is dangerous because they can slip inside you and become impossible to remove without medical intervention. Going slow and using plenty of lubricant is also vital for safe anal play; insufficient lubrication can cause tears that can increase the likelihood of infection or even STI transmission during sex with a partner.
 
-The world of anal toys is massive and varied. Small butt plugs can be a way to get used to the sensation of having something inserted in your ass; they often come in sets that allow you to increase in size as you become used to the stimulation and learn to relax. Anal beads can also be a great beginner toy which provide more active stimulation.
+The world of anal toys is massive and varied. Small butt plugs can be a way to get used to the sensation of having something inserted in your ass; they often come in sets that allow you to increase in size as you become used to the stimulation and learn to relax. Anal beads provide slightly more active stimulation and can also be a great beginner toy.
 
-Vibrators and dildos abound of all shapes and sizes for anal insertion; there are even toys that enter the anus and vagina simultaneously as well as stimulating the clitoris at the same time.
+Vibrators and dildos of all shapes and sizes abound; there are even toys that enter the anus and vagina simultaneously and stimulate the clitoris too.
 
 For owners of a prostate, there are vibrators as well as manual toys in various finishes and materials which are specifically angled to stimulate the prostate. There are also butt plugs with perineal stimulators which can provide additional sensation.
 
@@ -48,7 +48,7 @@ For owners of a prostate, there are vibrators as well as manual toys in various 
 
 Masturbators that emulate various orifices are among the most common toys for people with penises; they come in various shapes and sizes.
 
-Cock rings can increase the retention of blood in the penis which can cause harder erections and increase sensation, although care must be taken to not occlude bloodflow -- know how to remove your ring in case of circulation issues and ensure you research if you have any medical conditions that may interfere with safe use of a cock ring.
+Cock rings increase the retention of blood in the penis which can cause harder erections and increase sensation, although care must be taken to not occlude blood flow -- know how to remove your ring in case of circulation issues and discuss with a doctor if you have any medical conditions that may interfere with safe use of a cock ring.
 
 Some cock rings may vibrate, although the stimulation is often intended more for a partner than the wearer. For vibration, options range from vibrating masturbators to static sleeves that fit over the shaft or glans and attach to a larger vibrator to provide motion.
 
@@ -64,14 +64,14 @@ Pressure/suction-based clitoral stimulators can also be used on the nipples, as 
 
 Personal lubricant can enhance nearly all forms of sexual activity, including masturbation. It can ease the motion of penetrative toys, promote better seals on suction-based stimulators, and generally provide a modified sensation when touching or rubbing.
 
-Lubricants come in a variety of types; the most common are water-, silicone-, and oil-based. Water-based lubricants are almost always safe for both toys and condoms, though the glide it provides may fade as it dries out. Some "warming" or "numbing" lubricants may irritate the skin, so make sure to test it before use.
+Lubricants come in a variety of types and the most common are water, silicone, and oil-based. Water-based lubricant is almost always safe for both toys and condoms, though the glide it provides may fade as it dries out. Some "warming" or "numbing" lubricants may irritate the skin, so make sure to test it before use.
 
-Silicone-based (not silicon) can provide more consistent and long lasting lubrication and is especially suited for anal play, but can cause silicone toys to break down, so only use it with glass or steel toys.
+Silicone-based lubricant (not silicon) can provide more consistent and long lasting lubrication and is especially suited for anal play, but can cause silicone toys to break down, so only use it with glass or steel toys.
 
-Oil-based lubricants (such as coconut oil) are typically less suited for sexual play. Oil-based lubricants can break down silicone or rubber toys as well as not being safe to use with condoms. While safe for external use, oil's effect on the beneficial microbes and pH balance of human orifices is not well studied so it is not typically advised for penetration. Oil-based lubes will do for external play or penetrative play in a pinch, but professionally manufactured made-for-sexual-activity lubricants are your safest bet.
+Oil-based lubricants (such as coconut oil) are typically less suited for sexual play. Oil-based lubricants can break down silicone or rubber toys and are also not safe for use with condoms. While oil is safe for external use, its effect on the beneficial microbes and pH balance of human orifices is not well studied so it is not typically advised for penetration. Oil-based lubes will do for external play or penetrative play in a pinch, but professionally manufactured made-for-sexual-activity lubricants are your safest bet.
 
 ## Body Modification
 
-This guide would be remiss in not mentioning the pleasurable opportunities body modifications such as piercings can provide. Nipples, labia, clit and clitoral hood, penis head, shaft, scrotum, and even the perineum can be pierced for varying different sensual and aesthetic effects. Piercings can support both visually pleasing and sexually stimulating adornments in the form of designs and weights, as well as be manually stimulated. More extreme modification including subdermal implantation of magnets, lights, or radio transponders can be novel diversions for those who find a thrill from the very edge of body modification.
+This guide would be remiss in not mentioning the pleasurable opportunities body modifications such as piercings can provide. Nipples, labia, clit and clitoral hood, penis head, shaft, scrotum, and even the perineum can be pierced for varying different sensual and aesthetic effects. Piercings can support visually pleasing and sexually stimulating adornments via creative designs and weights and can also be manually stimulated.
 
 #### [⇐ Back to Mindful Masturbation](/#toys)

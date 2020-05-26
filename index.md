@@ -3,7 +3,7 @@ layout: page
 title: "A Guide to Mindful Masturbation"
 ---
 
-<a id="audio-enable" href="#" onclick="enableaudio()">Listen to this article</a>
+<a id="audio-enable" href="#" onclick="enableaudio()">Listen to this page</a>
 
 <audio
     id="audio-control"
@@ -13,9 +13,7 @@ title: "A Guide to Mindful Masturbation"
         <code>audio</code> element.
 </audio>
 
-*Mindful masturbation* is the practice of self-pleasure while practicing _mindfulness_ -- intentionally focusing on the sensations you experience in the moment, drawing your focus into your body and senses[^mindfulness-def]. Masturbation to sleep, relax, or relieve sexual tension is lovely, but it can be so much more! Mindful masturbation can be a gateway not just to better pleasure and more powerful orgasms but to radical self-love and confidence in your physical and sexual being.
-
-**This guide will consolidate mindful masturbation tips and ideas from around the web in one easy guide to getting started with a better way to get off!**
+*Mindful masturbation* is the practice of self-pleasure while practicing _mindfulness_ -- intentionally focusing on the sensations you experience in the moment, drawing your focus into your body and senses[^mindfulness-def]. Masturbation to sleep, relax, or relieve sexual tension is lovely, but it can be so much more! **Mindful masturbation can be a gateway not just to better pleasure and more powerful orgasms but to radical self-love and confidence in your physical and sexual being.**
 
 <div class="message">
   <blockquote>
@@ -54,23 +52,23 @@ Set aside a block of time when you'll have no other obligations or things to tak
 
 ## Basics
 
-**SLOW. DOWN.**[^mashable-article-trauma]<sup>, </sup>[^shape-howto]
+**SLOW. DOWN.**
 
-The core of mindful masturbation is to **tune in and be present** to how different physical sensations and thoughts make you feel while you're getting off. When you move quickly it becomes harder or impossible to focus on the tiny nuances you can experience. Move slowly and attentively.
+The core of mindful masturbation is to **tune in and be present** to how different physical sensations and thoughts make you feel while you're getting off. When you move quickly it becomes hard or impossible to focus on the tiny nuances you can experience. Move slowly and attentively[^mashable-article-trauma]<sup>, </sup>[^shape-howto].
 
 A great place to start is with a body scan -- get naked, close your eyes, breathe deeply, and relax. Bring awareness to your body, slowly scanning from the tip of your head to your toes. What sensations do you notice? Do you feel the pressure of your body on the bed or floor? Is there anywhere that aches or itches? Are you holding tension in your neck, your shoulders, your jaw, your core? These aren't bad things; pain, tension, or sensations you may not be able to name are natural and okay. Notice the feeling of your chest expanding as you breathe; feel your heartbeat gently rocking your chest. If you find a sensation curious, dwell on it for a few moments before moving elsewhere in your body. Be open and forgiving with your body as you take it in, especially if this is the first time you've tried something like this! It's also alright if you find your mind drifting to other worries or concerns -- gently guide your focus back to your body until you've examined everything you want to[^body-scan].
 
-It can be helpful to start your touch with a slow self massage which will help you relax and engage with your body. Use a similar sort of attention as the body scan to guide your touch. Use different types of touch in different places. For example, you may try firm finger work to release tight shoulders or scalp muscles; soft tickles across your chest; gentle scratches or pinches on inner thighs; gliding pressure across your belly. These are just suggestions -- touch where and how feels pleasant and interesting to you. You can also explore more unusual touch such as using more powerful vibrators (like a Hitachi Magic Wand or similar) to give your body deep vibrations through your chest or even through your forehead[^caitlin-roberts-video]. Remember to stay in tune with what you're feeling; be patient with your feelings and soak in the sensations.
+It can be helpful to start your touch with a slow self massage which will help you relax and engage with your body. Use a similar sort of attention as the body scan to guide your touch. Use different types of touch in different places. For example, you may try firm finger work to release tight shoulders or scalp muscles; soft tickles across your chest; gentle scratches or pinches on inner thighs; gliding pressure across your belly. These are just suggestions -- touch where and how feels pleasant and interesting to you. You can also explore more unusual touch such as using a vibrator to make deep vibrations through your chest or scalp[^caitlin-roberts-video]. Remember to stay in tune with what you're feeling; be patient with your feelings and soak in the sensations.
 
 ## Sexual Touch
 
 Slowly let your hands move to more sexual areas. No two people's erogenous zones are the same so let your touch wander.
 
-**Be playful with yourself[^caitlin-roberts-video]!** Rather than moving right to your typical method for masturbation, bring your attention to the sensation of different kinds of touch. For example, instead of touching your clit, try massaging your labia or pubic bone; instead of going for your G-spot, try playing with your perineum or the back wall of your vagina. If you have a penis, try massaging around the base of your shaft or perineum.
+**Be playful with yourself!** Rather than moving right to your typical method for masturbation, bring your attention to the sensation of different kinds of touch. For example, instead of touching your clit, try massaging your labia or pubic bone; instead of going for your G-spot, try playing with your perineum or the back wall of your vagina. If you have a penis, try massaging around the base of your shaft or perineum. Switching things up makes room for new sensations[^caitlin-roberts-video].
 
 When you're touching yourself, continue to experiment with types and ways of contact[^surry-hills-therapy] -- try stroking, tapping, kneading, deep pressure, tickling, or even spanking. Even if a touch doesn't immediately feel pleasurable, keep your mind on the feeling of your skin and the way the touch feels. You can also try switching things up by using your non-dominant hand[^shape-howto] or both hands, or doing familiar motions but far more slowly than usual.
 
-Remember to keep your breathing deep and regular, and very importantly **feel free to make noise!** You might feel the urge to moan or be breathy when you're doing self massage; lean into it! Society can make moaning or noise into a shameful thing but it's a beautiful way to express pleasure. Don't feel constrained by problematic gender norms either -- if you identify as more feminine, it's okay to growl and grunt; if you identify as masculine it's okay to mewl or coo. Let go of society's inhibitions and feel every bit of your delicious pleasure!
+Remember to keep your breathing deep and regular, and very importantly **feel free to make noise!** You might feel the urge to moan or be breathy when you're doing self massage -- lean into it! Society can make moaning or noise into a shameful thing but it's a beautiful way to express pleasure. Don't feel constrained by problematic gender norms either: if you identify as more feminine, it's okay to growl and grunt; if you identify as masculine it's okay to mewl or coo. Let go of society's inhibitions and feel every bit of your delicious pleasure!
 
 ## Headspace
 
@@ -80,7 +78,7 @@ Shame about the physical appearance of our bodies can be a powerful negative for
 
 If you feel drawn into a certain headspace or mood as you masturbate, embrace it! Sometimes you might feel small, submissive, and gentle; other times you might feel strong, powerful, and dominant. You may even enjoy repeating a mantra as you masturbate such as "I'm so strong," "My body is beautiful," or "I'm delicious!"
 
-Fantasies can be very powerful during masturbation as well. While mindful masturbation is primarily about being present in your own body, fantasies are still wonderful and you should indulge in them! Give yourself permission for the inside of your head to be a safe garden just for you; your fantasies are yours and yours alone. Fantasies about past lovers are normal and even healthy[^menshealth]. Don't let your fantasies get tangled up with shame because of societal, religious, or family reasons -- let your mind go where it wants to; your body will thank you for it!
+Fantasies can be very powerful during masturbation as well. While mindful masturbation is primarily about being present in your own body, fantasies are still wonderful and you should indulge in them! Give yourself permission for the inside of your head to be a safe garden just for you; your fantasies are yours and yours alone. Fantasies about past lovers are normal and even healthy[^menshealth]. Don't let your fantasies get tangled up with shame because of societal, religious, or family reasons -- let your mind go where it wants to. Your body will thank you for it!
 
 ## Orgasm and Afterwards
 
@@ -102,11 +100,11 @@ Mindful masturbation and meaningful self-pleasure are experiments, and sometimes
 
 Self-image and body issues, imposed by society or ourselves, can also rear their head when we focus intimately on our physical self. There are a variety of ways to grow a love for your body, including using mindful masturbation to help you internalize how wonderful your body is and how fantastic it can make you feel. However, there are also avenues ranging from self affirmation and personal gratitude practices to therapy or counseling that can help build self-love.
 
-Some may find it difficult to sexually stimulate their body at all. This can stem from a wide range of causes but is almost certainly not as uncommon or strange as you may think it is. Researching online or speaking with a therapist can help you feel less alone and provide ideas and steps for how to work on and through this challenge, if you desire. Mindful masturbation might also be helpful if it's not something you've attempted before, although your mileage may vary and working with someone you trust is most likely to be a helpful way forward. Most importantly, you are not broken -- all humans have a unique path to pleasure to walk.
+Some may find it difficult to sexually stimulate their body at all. This can stem from a wide range of causes but is almost certainly not as uncommon or strange as you may think it is. Researching online or speaking with a sex therapist can help you feel less alone and provide ideas and steps for how to work on and through this challenge, if you desire. Mindful masturbation might also be helpful if it's not something you've attempted before, although your mileage may vary and working with someone you trust is most likely to be a helpful way forward. Most importantly, you are not broken -- all humans have to walk a unique path to pleasure.
 
-Physical disabilities can cause difficulty with masturbation due to a variety of reasons. Advocacy and support groups may be able to provide information and tips on masturbation relevant to different situations; toys and body supports of different kinds may help as well. Mindful masturbation or sexual massage can also be possible with a receptive partner or sex worker as alternative options.
+Physical disabilities can cause difficulty with masturbation for a variety of reasons. Advocacy and support groups may be able to provide information and tips on masturbation relevant to different situations; toys and body supports of different kinds may help as well. As an alternative, mindful masturbation or sexual massage can also be possible with a receptive partner or sex worker as alternative options.
 
-In some cases, a partner might express emotions ranging from curiosity to concern with an exercise such as mindful masturbation. Hopefully you can remind your partner that masturbation is normal and healthy. In some cases, it may help to remind them that being in touch with your own body and desires can make you a more full sexual being including in sexual activities with them. You may even want to invite your partner to read this information and perhaps try mindful masturbation for themselves!
+In some cases, a partner might express emotions ranging from curiosity to concern about an exercise like mindful masturbation. Hopefully you can remind your partner that masturbation is normal and healthy. In some cases, it may help to remind them that being in touch with your own body and desires can make you a more full sexual being, including in sexual activities with them. You may even want to invite your partner to read this information and perhaps try mindful masturbation for themselves!
 
 ## Closing
 
